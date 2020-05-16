@@ -18,7 +18,6 @@ public class TestArraySort_03 {
 				.convertListToArrayAndSort(ipAndLocationPojoList);
 
 		System.out.println(ipAndLocationPojoArray[0]);
-		System.out
-				.println(ipAndLocationPojoArray[ipAndLocationPojoArray.length - 1]);
+		System.out.println(ipAndLocationPojoArray[ipAndLocationPojoArray.length - 1]);
 	}
 }

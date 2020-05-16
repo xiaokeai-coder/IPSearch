@@ -6,7 +6,11 @@ import java.util.List;
 
 import com.tledu.tt.pojo.IPAndLocationPojo;
 import com.tledu.tt.util.FileOperatorUtil;
-
+/**
+ * 数据结构化
+ * @author Administrator
+ *
+ */
 public class TestNonStructToStruct_02 {
 
 	public static void main(String[] args) throws IOException {
